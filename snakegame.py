@@ -283,6 +283,7 @@ def respawnApples(apples , quantity , sx ,sy):
         angle = 999
         counter +=1
 
+        # Coding by ravi
 
 def main():
     score =  0
